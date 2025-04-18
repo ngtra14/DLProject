@@ -1,3 +1,6 @@
+1. Download the pre-trained weight and save it to saved_models folder. Your folder structure should be as followed: 
+
+
 DLProject/
 
 ├── Encoder/                        # Contains the encoder implementation and related scripts
